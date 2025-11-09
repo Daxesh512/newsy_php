@@ -1,0 +1,10 @@
+First install the theme, then install and activate all required plugins
+then replace the "ProductLicense.php" file in this folder 
+wp-content/plugins/ak-framework/class/Product/
+
+then go to top of Wordpress Dashboard
+Newsy - Activate
+enter the key 
+a98830d0-3911-46e9-83b7-fe58f885460d
+
+it will give you an error message. ignore it. Go to Import Demos section and select your demo content. thats all

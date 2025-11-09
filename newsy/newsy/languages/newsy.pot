@@ -1,0 +1,4001 @@
+# Copyright (C) 2021 akbilisim
+# This file is distributed under the GNU General Public License v2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Newsy 1.5.0\n"
+"Report-Msgid-Bugs-To: https://support.akbilisim.com/\n"
+"Last-Translator: akbilisim <contact@akbilisim.com>\n"
+"Language-Team: akbilisim <contact@akbilisim.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-28T07:19:28+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"bugReport: https://support.akbilisim.com/\n"
+"X-Domain: newsy\n"
+
+#. Theme Name of the theme
+msgid "Newsy"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://demo.akbilisim.com/newsy"
+msgstr ""
+
+#. Description of the theme
+msgid "Viral News & Magazine WordPress Theme"
+msgstr ""
+
+#. Author of the theme
+msgid "akbilisim"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://akbilisim.com"
+msgstr ""
+
+#: 404.php:26
+msgid "Page Not Found!"
+msgstr ""
+
+#: 404.php:30
+msgid "We're sorry, but we can't find the page you were looking for. It's probably some thing we've done wrong but now we know about it and we'll try to fix it. In the meantime, try to go homepage:"
+msgstr ""
+
+#: 404.php:38
+msgid "Back to Homepage"
+msgstr ""
+
+#: bbpress/loop-forums.php:30
+#: bbpress/loop-search-forum.php:59
+#: bbpress/loop-single-forum.php:64
+#: bbpress/loop-topics.php:21
+msgid "Topics"
+msgstr ""
+
+#: bbpress/loop-forums.php:33
+#: bbpress/loop-search-forum.php:60
+#: bbpress/loop-search-topic.php:157
+#: bbpress/loop-single-forum.php:65
+#: bbpress/loop-single-topic.php:156
+#: bbpress/loop-topics.php:23
+msgid "Replies"
+msgstr ""
+
+#: bbpress/loop-forums.php:33
+#: bbpress/loop-search-forum.php:60
+#: bbpress/loop-search-topic.php:157
+#: bbpress/loop-single-forum.php:65
+#: bbpress/loop-single-topic.php:156
+#: bbpress/loop-topics.php:23
+#: class/Plugin/BuddyPress.php:255
+#: includes/options/metabox/archive.php:309
+msgid "Posts"
+msgstr ""
+
+#: bbpress/loop-forums.php:36
+msgid "Last Activate"
+msgstr ""
+
+#: bbpress/loop-replies.php:15
+msgid "Post In:"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:76
+#: bbpress/loop-single-forum.php:81
+msgid "by"
+msgstr ""
+
+#: bbpress/loop-search-reply.php:44
+msgid "On"
+msgstr ""
+
+#: bbpress/loop-search-reply.php:66
+#: bbpress/loop-single-reply.php:72
+msgid "in reply to:"
+msgstr ""
+
+#: bbpress/loop-search-topic.php:112
+msgctxt "bbpress"
+msgid "Started by: %1$s"
+msgstr ""
+
+#: bbpress/loop-search-topic.php:120
+msgctxt "bbpress"
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: bbpress/loop-search-topic.php:128
+msgctxt "bbpress"
+msgid "Last post:"
+msgstr ""
+
+#: bbpress/loop-search-topic.php:156
+#: bbpress/loop-single-topic.php:155
+#: bbpress/loop-topics.php:22
+msgid "Voices"
+msgstr ""
+
+#: bbpress/loop-single-reply.php:44
+msgid "on"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:112
+msgid "Started by:"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:120
+msgid "in"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:128
+msgid "Last post:"
+msgstr ""
+
+#. translators: %s = last activity timestamp (e.g. "active 1 hour ago")
+#: buddypress/groups/groups-loop.php:69
+msgid "active %s"
+msgstr ""
+
+#: buddypress/members/single/parts/item-nav.php:10
+msgid "Member menu"
+msgstr ""
+
+#: buddypress/members/single/parts/member-sidebar.php:45
+#: class/Plugin/BuddyPress.php:296
+msgid "Followers"
+msgstr ""
+
+#: buddypress/members/single/parts/member-sidebar.php:84
+msgid "Following"
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:40
+#: class/Ajax/PostAjax.php:104
+msgid "Security error!"
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:44
+msgid "Invalid Recaptcha!"
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:115
+#: class/Ajax/AuthAjax.php:170
+#: class/Ajax/AuthAjax.php:224
+msgid "All fields are required!"
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:126
+msgid "A user could not be found with this email address."
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:145
+msgid "Login successful. Please wait while you are being redirected."
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:162
+msgid "Register disabled!"
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:174
+msgid "Username is already taken"
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:178
+msgid "Invalid username"
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:182
+msgid "Invalid email"
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:186
+msgid "Email is already registered"
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:208
+msgid "Register successful. Please check your email (index or spam folder), the password was sent there."
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:236
+msgid "Email or username is not registered into this site"
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:243
+msgid "Someone has requested a password reset for the following account:"
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:245
+msgid "Username: %s"
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:246
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:247
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:258
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:268
+msgid "The e-mail could not be sent. Your host may have disabled the mail function..."
+msgstr ""
+
+#: class/Ajax/AuthAjax.php:276
+msgid "Please check your e-mail for the confirmation link"
+msgstr ""
+
+#: class/Archive/Category.php:59
+msgid "All"
+msgstr ""
+
+#: class/Archive/Search.php:31
+msgid "Search Results for \"%s\" (%s)"
+msgstr ""
+
+#: class/Plugin/BbPress.php:82
+msgid "Tags"
+msgstr ""
+
+#: class/Plugin/BuddyPress.php:207
+msgid "Follow"
+msgstr ""
+
+#: class/Plugin/BuddyPress.php:216
+msgid "Unfollow"
+msgstr ""
+
+#: class/Plugin/BuddyPress.php:273
+msgid "Friends"
+msgstr ""
+
+#: class/Plugin/BuddyPress.php:339
+msgid "online"
+msgstr ""
+
+#: class/Plugin/BuddyPress.php:341
+msgid "offline"
+msgstr ""
+
+#: class/Plugin/BuddyPress.php:435
+msgid "Total Reads"
+msgstr ""
+
+#: class/Plugin/BuddyPress.php:437
+msgid "Total Posts"
+msgstr ""
+
+#: class/Plugin/BuddyPress.php:457
+msgid "joined at"
+msgstr ""
+
+#: class/Plugin/MyCred.php:45
+msgid "myCred Ranks & Badgets"
+msgstr ""
+
+#: class/Plugin/MyCred.php:107
+#: class/Plugin/MyCred.php:197
+msgid "Points"
+msgstr ""
+
+#: class/Plugin/MyCred.php:131
+msgid "Badges"
+msgstr ""
+
+#. translators: %s: total
+#: class/Plugin/MyCred.php:172
+msgid "Total %s"
+msgstr ""
+
+#. translators: %s: badge count
+#: class/Plugin/MyCred.php:321
+msgid "Show All Badges ( %s )"
+msgstr ""
+
+#. translators: %s: level
+#. translators: %s: level
+#: class/Plugin/MyCred.php:350
+#: class/Plugin/MyCred.php:432
+msgid "Level %s"
+msgstr ""
+
+#: class/Plugin/MyCred.php:361
+msgid "Users with badge: "
+msgstr ""
+
+#: class/Plugin/MyCred.php:446
+msgid "Level: "
+msgstr ""
+
+#: class/Plugin/MyCred.php:450
+msgid "Locked"
+msgstr ""
+
+#: class/Plugin/WooCommerce.php:58
+msgid "Order List"
+msgstr ""
+
+#: class/Plugin/WooCommerce.php:62
+msgid "Edit Account"
+msgstr ""
+
+#: class/Plugin/WSL.php:143
+msgid "Login With %s"
+msgstr ""
+
+#: class/Plugin/WSL.php:195
+msgid "Or"
+msgstr ""
+
+#: class/Single/SinglePost.php:352
+#: includes/theme-content.php:61
+msgid "%s ago"
+msgstr ""
+
+#: class/Single/SinglePost.php:506
+msgid "Tags:"
+msgstr ""
+
+#: class/Single/SinglePost.php:596
+msgid "Related Posts"
+msgstr ""
+
+#: class/Single/SinglePost.php:641
+msgid "What's your reaction?"
+msgstr ""
+
+#. translators: %s: visibility level
+#: class/Support/CommentWalker.php:40
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: class/Support/CommentWalker.php:48
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: class/Support/CommentWalker.php:57
+msgid "Edit"
+msgstr ""
+
+#: class/Support/PartBuilder.php:45
+msgid "Header Builder"
+msgstr ""
+
+#: class/Support/PartBuilder.php:47
+msgid "Desktop"
+msgstr ""
+
+#: class/Support/PartBuilder.php:48
+msgid "Mobile"
+msgstr ""
+
+#: class/Support/PartBuilder.php:49
+#: class/Support/PartBuilderData.php:14
+msgid "Sticky Bar"
+msgstr ""
+
+#: class/Support/PartBuilder.php:50
+msgid "Drawer Bar"
+msgstr ""
+
+#: class/Support/PartBuilder.php:54
+msgid "Post Sticky Builder"
+msgstr ""
+
+#: class/Support/PartBuilder.php:59
+msgid "Footer Builder"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:10
+msgid "Header Bars"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:18
+msgid "Post Sticky Bar"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:22
+msgid "Mobile Bar"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:26
+msgid "Side Bar"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:30
+msgid "Footer Bars"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:50
+#: class/Support/PartBuilderData.php:91
+#: class/Support/PartBuilderData.php:114
+#: class/Support/PartBuilderData.php:137
+#: class/Support/PartBuilderData.php:160
+#: class/Support/PartBuilderData.php:183
+msgid "Order"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:55
+#: class/Support/PartBuilderData.php:188
+msgid "Top"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:56
+#: class/Support/PartBuilderData.php:189
+msgid "Mid"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:57
+#: class/Support/PartBuilderData.php:190
+msgid "Bottom"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:63
+#: class/Support/PartBuilderData.php:196
+msgid "Top Row"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:70
+#: class/Support/PartBuilderData.php:203
+msgid "Mid Row"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:78
+#: class/Support/PartBuilderData.php:211
+msgid "Bottom Row"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:96
+#: class/Support/PartBuilderData.php:102
+msgid "Sticky Row"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:119
+#: class/Support/PartBuilderData.php:125
+msgid "Post Sticky Row"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:142
+#: class/Support/PartBuilderData.php:148
+msgid "Mobile Row"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:165
+#: class/Support/PartBuilderData.php:171
+msgid "Drawer Row"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:223
+msgid "Scheme"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:225
+#: includes/options/theme-panel/sections/colors.php:18
+#: includes/theme-admin.php:851
+msgid "Light"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:226
+#: includes/options/theme-panel/sections/colors.php:19
+#: includes/theme-admin.php:853
+msgid "Dark"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:234
+#: class/Support/PartBuilderData.php:276
+#: includes/options/theme-panel/sections/archive.php:13
+#: includes/options/theme-panel/sections/archive.php:30
+#: includes/options/theme-panel/sections/archive.php:66
+#: includes/options/theme-panel/sections/archive.php:91
+#: includes/options/theme-panel/sections/archive.php:119
+#: includes/theme-admin.php:261
+msgid "Layout"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:236
+#: class/Support/PartBuilderData.php:280
+msgid "Normal"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:237
+msgid "Stretched"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:238
+msgid "Boxed"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:246
+msgid "left"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:253
+msgid "center"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:260
+msgid "right"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:279
+msgid "Grow"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:289
+msgid "align"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:292
+msgid "Left"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:293
+msgid "Center"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:294
+msgid "Right"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:306
+msgid "Items"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:317
+#: class/Support/PartBuilderData.php:353
+#: class/Support/PartBuilderData.php:382
+#: class/Support/PartBuilderData.php:407
+#: class/Support/PartBuilderData.php:432
+#: class/Support/PartBuilderData.php:462
+msgid "Logo"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:318
+msgid "Date"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:319
+#: class/Support/PartBuilderData.php:360
+#: class/Support/PartBuilderData.php:386
+#: class/Support/PartBuilderData.php:465
+msgid "Search Icon"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:320
+#: class/Support/PartBuilderData.php:361
+#: class/Support/PartBuilderData.php:387
+#: class/Support/PartBuilderData.php:466
+msgid "Shop Icon"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:321
+#: class/Support/PartBuilderData.php:362
+#: class/Support/PartBuilderData.php:410
+msgid "Search Form"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:322
+#: class/Support/PartBuilderData.php:363
+#: class/Support/PartBuilderData.php:389
+#: class/Support/PartBuilderData.php:411
+#: class/Support/PartBuilderData.php:436
+msgid "Social Icons"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:323
+msgid "Account"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:324
+#: class/Support/PartBuilderData.php:356
+#: class/Support/PartBuilderData.php:418
+#: includes/options/metabox/top-menu.php:9
+#: includes/options/theme-panel/sections/fonts.php:339
+msgid "Top Menu"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:325
+#: class/Support/PartBuilderData.php:357
+#: includes/options/theme-panel/sections/fonts.php:181
+msgid "Main Menu"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:326
+#: class/Support/PartBuilderData.php:359
+#: class/Support/PartBuilderData.php:385
+#: class/Support/PartBuilderData.php:464
+msgid "Menu Handler"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:327
+#: class/Support/PartBuilderData.php:388
+#: class/Support/PartBuilderData.php:412
+#: class/Support/PartBuilderData.php:451
+msgid "Language"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:328
+#: class/Support/PartBuilderData.php:364
+#: class/Support/PartBuilderData.php:390
+#: class/Support/PartBuilderData.php:414
+msgid "Create Button"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:329
+#: class/Support/PartBuilderData.php:365
+#: class/Support/PartBuilderData.php:391
+#: class/Support/PartBuilderData.php:415
+#: class/Support/PartBuilderData.php:441
+#: class/Support/PartBuilderData.php:467
+msgid "Button 1"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:330
+#: class/Support/PartBuilderData.php:366
+#: class/Support/PartBuilderData.php:392
+#: class/Support/PartBuilderData.php:416
+#: class/Support/PartBuilderData.php:442
+#: class/Support/PartBuilderData.php:468
+msgid "Button 2"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:331
+#: class/Support/PartBuilderData.php:367
+#: class/Support/PartBuilderData.php:393
+#: class/Support/PartBuilderData.php:417
+#: class/Support/PartBuilderData.php:469
+msgid "Button 3"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:332
+#: class/Support/PartBuilderData.php:333
+#: class/Support/PartBuilderData.php:334
+#: class/Support/PartBuilderData.php:335
+#: class/Support/PartBuilderData.php:336
+#: class/Support/PartBuilderData.php:445
+#: class/Support/PartBuilderData.php:446
+#: class/Support/PartBuilderData.php:447
+msgid "|"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:337
+msgid "Header Ad 1"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:338
+msgid "Header Ad 2"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:339
+#: class/Support/PartBuilderData.php:373
+#: class/Support/PartBuilderData.php:413
+msgid "Badge Icons"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:340
+#: class/Support/PartBuilderData.php:374
+#: class/Support/PartBuilderData.php:399
+msgid "Dark Mode"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:341
+#: class/Support/PartBuilderData.php:368
+#: class/Support/PartBuilderData.php:394
+#: class/Support/PartBuilderData.php:419
+#: class/Support/PartBuilderData.php:448
+msgid "HTML Element 1"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:342
+#: class/Support/PartBuilderData.php:369
+#: class/Support/PartBuilderData.php:395
+#: class/Support/PartBuilderData.php:420
+#: class/Support/PartBuilderData.php:449
+msgid "HTML Element 2"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:343
+#: class/Support/PartBuilderData.php:370
+#: class/Support/PartBuilderData.php:396
+#: class/Support/PartBuilderData.php:421
+#: class/Support/PartBuilderData.php:450
+msgid "HTML Element 3"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:344
+#: class/Support/PartBuilderData.php:371
+#: class/Support/PartBuilderData.php:397
+#: class/Support/PartBuilderData.php:422
+msgid "HTML Element 4"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:345
+#: class/Support/PartBuilderData.php:372
+#: class/Support/PartBuilderData.php:398
+#: class/Support/PartBuilderData.php:423
+msgid "HTML Element 5"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:354
+#: class/Support/PartBuilderData.php:383
+#: class/Support/PartBuilderData.php:408
+#: class/Support/PartBuilderData.php:463
+msgid "Mobile Logo"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:355
+msgid "Sticky Logo"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:358
+#: class/Support/PartBuilderData.php:384
+#: views/account/account_modal.php:25
+msgid "Login"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:409
+#: includes/options/theme-panel/sections/fonts.php:374
+msgid "Mobile Menu"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:424
+#: class/Support/PartBuilderData.php:435
+msgid "Footer Copyright"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:433
+msgid "Footer Logo"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:434
+#: includes/options/theme-panel/sections/fonts.php:396
+msgid "Footer Menu"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:437
+msgid "Footer Widgets"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:438
+msgid "Footer Widget 1"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:439
+msgid "Footer Widget 2"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:440
+msgid "Footer Widget 3"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:443
+msgid "Footer Ad 1"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:444
+msgid "Footer Ad 2"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:459
+#: includes/options/theme-panel/sections/fonts.php:518
+msgid "Post Title"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:460
+msgid "Post Share Icons"
+msgstr ""
+
+#: class/Support/PartBuilderData.php:461
+msgid "Post Badges"
+msgstr ""
+
+#: comments.php:27
+msgid "Read All Comment"
+msgstr ""
+
+#: comments.php:29
+msgid "Leave Comment"
+msgstr ""
+
+#: includes/options/metabox/archive.php:7
+#: includes/options/theme-panel/theme-options.php:18
+msgid "Header"
+msgstr ""
+
+#: includes/options/metabox/archive.php:14
+#: includes/options/theme-panel/sections/categories.php:20
+msgid "Header Template"
+msgstr ""
+
+#: includes/options/metabox/archive.php:15
+msgid "Customize category header template on this archive page."
+msgstr ""
+
+#: includes/options/metabox/archive.php:22
+#: includes/options/theme-panel/sections/categories.php:28
+#: includes/options/theme-panel/sections/header.php:190
+msgid "Header Background Color"
+msgstr ""
+
+#: includes/options/metabox/archive.php:23
+#: includes/options/theme-panel/sections/categories.php:29
+msgid "Select a category header background color."
+msgstr ""
+
+#: includes/options/metabox/archive.php:41
+#: includes/options/theme-panel/sections/categories.php:47
+#: includes/options/theme-panel/sections/header.php:204
+msgid "Header Background Image"
+msgstr ""
+
+#: includes/options/metabox/archive.php:42
+#: includes/options/theme-panel/sections/categories.php:48
+#: includes/theme-admin.php:470
+msgid "Set a background image. For patterns, use a repeating background. Use photo to fully cover the background with an image. Note that it will override the background color option."
+msgstr ""
+
+#: includes/options/metabox/archive.php:45
+#: includes/options/theme-panel/sections/categories.php:51
+#: includes/options/theme-panel/sections/footer.php:143
+#: includes/options/theme-panel/sections/header.php:208
+#: includes/theme-admin.php:471
+msgid "Upload Image"
+msgstr ""
+
+#: includes/options/metabox/archive.php:61
+#: includes/options/theme-panel/sections/categories.php:67
+msgid "Header Padding Top"
+msgstr ""
+
+#: includes/options/metabox/archive.php:83
+#: includes/options/theme-panel/sections/categories.php:90
+msgid "Header Padding Bottom"
+msgstr ""
+
+#: includes/options/metabox/archive.php:107
+msgid "Header Logo"
+msgstr ""
+
+#: includes/options/metabox/archive.php:108
+msgid "Choose a logo for your archive header."
+msgstr ""
+
+#: includes/options/metabox/archive.php:111
+msgid "Select or Upload Category Logo"
+msgstr ""
+
+#: includes/options/metabox/archive.php:112
+msgid "Select Logo"
+msgstr ""
+
+#: includes/options/metabox/archive.php:113
+#: includes/options/metabox/menu.php:128
+msgid "Upload Logo"
+msgstr ""
+
+#: includes/options/metabox/archive.php:114
+#: includes/options/metabox/menu.php:129
+msgid "Remove"
+msgstr ""
+
+#: includes/options/metabox/archive.php:119
+msgid "Show Header Name?"
+msgstr ""
+
+#: includes/options/metabox/archive.php:120
+msgid "Hide or show category name from archive header. This may useful if you have background image styled header."
+msgstr ""
+
+#: includes/options/metabox/archive.php:130
+msgid "Custom Header Name"
+msgstr ""
+
+#: includes/options/metabox/archive.php:131
+msgid "Customize category title in archive page without renaming title of category."
+msgstr ""
+
+#: includes/options/metabox/archive.php:143
+#: includes/options/metabox/page.php:29
+#: includes/options/metabox/post.php:133
+#: includes/options/theme-panel/sections/categories.php:114
+#: includes/options/theme-panel/sections/post.php:19
+msgid "Show Breadcrumb?"
+msgstr ""
+
+#: includes/options/metabox/archive.php:148
+#: includes/options/metabox/archive.php:161
+#: includes/options/metabox/archive.php:173
+#: includes/options/theme-panel/sections/post.php:355
+#: includes/theme-admin.php:236
+#: includes/theme-admin.php:936
+#: includes/theme-admin.php:1149
+#: includes/theme-admin.php:1236
+msgid "Default"
+msgstr ""
+
+#: includes/options/metabox/archive.php:149
+#: includes/options/metabox/archive.php:162
+#: includes/options/metabox/archive.php:174
+#: includes/options/metabox/archive.php:325
+#: includes/options/metabox/page.php:20
+#: includes/options/metabox/page.php:32
+msgid "Show"
+msgstr ""
+
+#: includes/options/metabox/archive.php:150
+#: includes/options/metabox/archive.php:163
+#: includes/options/metabox/archive.php:175
+#: includes/options/metabox/archive.php:326
+#: includes/options/metabox/page.php:21
+#: includes/options/metabox/page.php:33
+#: includes/options/metabox/post.php:227
+#: includes/options/theme-panel/sections/post.php:305
+msgid "Hide"
+msgstr ""
+
+#: includes/options/metabox/archive.php:156
+msgid "Show Description"
+msgstr ""
+
+#: includes/options/metabox/archive.php:168
+msgid "Show Subcategories"
+msgstr ""
+
+#: includes/options/metabox/archive.php:185
+msgid "Style"
+msgstr ""
+
+#: includes/options/metabox/archive.php:192
+msgid "Highlight Color"
+msgstr ""
+
+#: includes/options/metabox/archive.php:193
+msgid "This color will be used in several areas such as navigation and loop blocks to emphasize archive page."
+msgstr ""
+
+#: includes/options/metabox/archive.php:224
+msgid "Icon Badge Type?"
+msgstr ""
+
+#: includes/options/metabox/archive.php:225
+msgid "Check this option to enable badge on archive post."
+msgstr ""
+
+#: includes/options/metabox/archive.php:237
+msgid "Badge Icon"
+msgstr ""
+
+#: includes/options/metabox/archive.php:247
+msgid "Badge Text"
+msgstr ""
+
+#: includes/options/metabox/archive.php:249
+msgid "Short text for badge icon. Ex: It can be Quiz for Quizzess."
+msgstr ""
+
+#: includes/options/metabox/archive.php:259
+msgid "Badge Text Color"
+msgstr ""
+
+#: includes/options/metabox/archive.php:261
+msgid "Text color for badge icon."
+msgstr ""
+
+#: includes/options/metabox/archive.php:279
+msgid "Badge Background Color"
+msgstr ""
+
+#: includes/options/metabox/archive.php:300
+msgid "Grids"
+msgstr ""
+
+#: includes/options/metabox/archive.php:318
+msgid "Show List Block Header?"
+msgstr ""
+
+#: includes/options/metabox/archive.php:319
+msgid "Select show or hide block header."
+msgstr ""
+
+#: includes/options/metabox/archive.php:324
+msgid "--Default from Theme Panel--"
+msgstr ""
+
+#: includes/options/metabox/archive.php:332
+msgid "List Block Header Custom Title"
+msgstr ""
+
+#: includes/options/metabox/archive.php:333
+msgid "Customize block header title in archive page."
+msgstr ""
+
+#: includes/options/metabox/archive.php:345
+#: includes/options/metabox/post.php:234
+msgid "Others"
+msgstr ""
+
+#: includes/options/metabox/archive.php:354
+msgid "Page Main Navigation"
+msgstr ""
+
+#: includes/options/metabox/archive.php:355
+#: includes/options/metabox/page.php:41
+#: includes/options/metabox/post.php:244
+msgid "Replace & change main menu for this page."
+msgstr ""
+
+#: includes/options/metabox/archive.php:359
+#: includes/options/metabox/page.php:45
+#: includes/options/metabox/post.php:248
+msgid "-- Default Main Navigation --"
+msgstr ""
+
+#: includes/options/metabox/menu.php:11
+#: includes/options/metabox/menu.php:19
+msgid "Mega & Sub Menu"
+msgstr ""
+
+#: includes/options/metabox/menu.php:26
+msgid "Mega Menu Type"
+msgstr ""
+
+#: includes/options/metabox/menu.php:36
+msgid "Tabs"
+msgstr ""
+
+#: includes/options/metabox/menu.php:38
+msgid "Auto Detect - Sub Categories as Tab"
+msgstr ""
+
+#: includes/options/metabox/menu.php:39
+msgid "Categories as Tab"
+msgstr ""
+
+#: includes/options/metabox/menu.php:40
+msgid "Taxonomies as Tab"
+msgstr ""
+
+#: includes/options/metabox/menu.php:41
+msgid "Order by as Tab"
+msgstr ""
+
+#: includes/options/metabox/menu.php:53
+msgid "Selected Categories as Tab"
+msgstr ""
+
+#: includes/options/metabox/menu.php:54
+msgid "Select multiple categories. This will create multi tab header."
+msgstr ""
+
+#: includes/options/metabox/menu.php:68
+msgid "Taxonomies as tab"
+msgstr ""
+
+#: includes/options/metabox/menu.php:69
+msgid "Enter here custom taxonomies with \"taxonomy:term_name\" pattern also you can add multiple taxonomies. ( ex: post_format:video,genre:books,writer:admin )"
+msgstr ""
+
+#: includes/options/metabox/menu.php:82
+msgid "Select order by options as Tab"
+msgstr ""
+
+#: includes/options/metabox/menu.php:83
+msgid "Pick order by options you want see or leave empty for all options"
+msgstr ""
+
+#: includes/options/metabox/menu.php:96
+msgid "Exclude Categories at Viral Menu Section"
+msgstr ""
+
+#: includes/options/metabox/menu.php:109
+msgid "Select Page Links at Viral Menu"
+msgstr ""
+
+#: includes/options/metabox/menu.php:122
+msgid "Viral Menu Logo"
+msgstr ""
+
+#: includes/options/metabox/menu.php:124
+msgid "By default, a logo is created using theme options. But you can also upload an image-based logo here."
+msgstr ""
+
+#: includes/options/metabox/menu.php:126
+msgid "Select or Upload Logo"
+msgstr ""
+
+#: includes/options/metabox/menu.php:127
+msgid "Select Image"
+msgstr ""
+
+#: includes/options/metabox/menu.php:139
+msgid "Select Pages for Custom Menu"
+msgstr ""
+
+#: includes/options/metabox/menu.php:153
+#: includes/options/metabox/top-menu.php:21
+msgid "Sub Menu Type"
+msgstr ""
+
+#: includes/options/metabox/menu.php:159
+#: includes/options/metabox/top-menu.php:28
+msgid "No Column"
+msgstr ""
+
+#: includes/options/metabox/menu.php:160
+#: includes/options/metabox/top-menu.php:29
+msgid "2 Column links"
+msgstr ""
+
+#: includes/options/metabox/menu.php:161
+#: includes/options/metabox/top-menu.php:30
+msgid "3 Column links"
+msgstr ""
+
+#: includes/options/metabox/menu.php:162
+#: includes/options/metabox/top-menu.php:31
+msgid "4 Column links"
+msgstr ""
+
+#: includes/options/metabox/menu.php:172
+msgid "Menu Animation"
+msgstr ""
+
+#: includes/options/metabox/menu.php:182
+#: includes/options/metabox/mobile-menu.php:12
+#: includes/options/metabox/top-menu.php:47
+msgid "Menu Icon"
+msgstr ""
+
+#: includes/options/metabox/menu.php:189
+#: includes/options/metabox/mobile-menu.php:19
+#: includes/options/metabox/top-menu.php:53
+#: includes/options/theme-panel/sections/post.php:676
+msgid "Icon"
+msgstr ""
+
+#: includes/options/metabox/menu.php:193
+#: includes/options/metabox/mobile-menu.php:23
+#: includes/options/metabox/top-menu.php:57
+#: includes/options/metabox/top-menu.php:66
+#: includes/theme-admin.php:910
+msgid "Chose an Icon"
+msgstr ""
+
+#: includes/options/metabox/menu.php:198
+#: includes/options/metabox/top-menu.php:62
+msgid "Show Only Icon?"
+msgstr ""
+
+#: includes/options/metabox/menu.php:209
+msgid "Icon Color"
+msgstr ""
+
+#: includes/options/metabox/menu.php:216
+#: includes/options/metabox/mobile-menu.php:28
+#: includes/options/metabox/top-menu.php:76
+msgid "Menu Badge"
+msgstr ""
+
+#: includes/options/metabox/menu.php:222
+#: includes/options/metabox/mobile-menu.php:35
+#: includes/options/metabox/top-menu.php:82
+msgid "Badge Label"
+msgstr ""
+
+#: includes/options/metabox/menu.php:229
+msgid "Badge Color"
+msgstr ""
+
+#: includes/options/metabox/page.php:6
+#: includes/options/theme-panel/sections/archive.php:7
+msgid "Page"
+msgstr ""
+
+#: includes/options/metabox/page.php:17
+msgid "Show Page Title?"
+msgstr ""
+
+#: includes/options/metabox/page.php:19
+#: includes/options/metabox/page.php:31
+#: includes/options/metabox/post.php:27
+#: includes/options/metabox/post.php:138
+#: includes/options/metabox/post.php:150
+#: includes/options/metabox/post.php:163
+#: includes/options/metabox/post.php:176
+#: includes/options/metabox/post.php:188
+#: includes/options/metabox/post.php:200
+#: includes/options/metabox/post.php:212
+#: includes/options/metabox/post.php:224
+msgid "Default - From Theme Panel"
+msgstr ""
+
+#: includes/options/metabox/page.php:40
+#: includes/options/metabox/post.php:243
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: includes/options/metabox/post.php:7
+#: includes/options/theme-panel/sections/fonts.php:511
+msgid "Post"
+msgstr ""
+
+#: includes/options/metabox/post.php:13
+msgid "Post template"
+msgstr ""
+
+#: includes/options/metabox/post.php:14
+msgid "Override template for single post."
+msgstr ""
+
+#: includes/options/metabox/post.php:24
+#: includes/options/theme-panel/sections/post.php:53
+msgid "Post Thumbnail Size"
+msgstr ""
+
+#: includes/options/metabox/post.php:25
+#: includes/options/theme-panel/sections/post.php:54
+msgid "Choose image thumbnail size."
+msgstr ""
+
+#: includes/options/metabox/post.php:28
+#: includes/options/theme-panel/sections/post.php:56
+msgid "Crop 1/2 Dimension"
+msgstr ""
+
+#: includes/options/metabox/post.php:29
+#: includes/options/theme-panel/sections/post.php:57
+msgid "Crop Wide Height Dimension"
+msgstr ""
+
+#: includes/options/metabox/post.php:30
+#: includes/options/theme-panel/sections/post.php:58
+msgid "No Crop (Auto Height)"
+msgstr ""
+
+#: includes/options/metabox/post.php:41
+msgid "Post Featured Video"
+msgstr ""
+
+#: includes/options/metabox/post.php:42
+msgid "Set featured post video. Set post format as Video for this setting"
+msgstr ""
+
+#: includes/options/metabox/post.php:58
+msgid "Video Url"
+msgstr ""
+
+#: includes/options/metabox/post.php:68
+msgid "Mp4 Video"
+msgstr ""
+
+#: includes/options/metabox/post.php:72
+#: includes/options/metabox/post.php:73
+msgid "Upload .mp4"
+msgstr ""
+
+#: includes/options/metabox/post.php:81
+msgid "Webm Video"
+msgstr ""
+
+#: includes/options/metabox/post.php:85
+#: includes/options/metabox/post.php:86
+msgid "Upload .webm"
+msgstr ""
+
+#: includes/options/metabox/post.php:94
+msgid "Is Gif Video?"
+msgstr ""
+
+#: includes/options/metabox/post.php:108
+msgid "Video Length"
+msgstr ""
+
+#: includes/options/metabox/post.php:121
+msgid "Post Primary Category"
+msgstr ""
+
+#: includes/options/metabox/post.php:122
+msgid "Set primary post category. This is used on block posts."
+msgstr ""
+
+#: includes/options/metabox/post.php:126
+msgid "-- Auto Select --"
+msgstr ""
+
+#: includes/options/metabox/post.php:139
+#: includes/options/metabox/post.php:151
+#: includes/options/metabox/post.php:164
+#: includes/options/metabox/post.php:177
+#: includes/options/metabox/post.php:189
+#: includes/options/metabox/post.php:201
+#: includes/options/metabox/post.php:213
+#: includes/options/metabox/top-menu.php:70
+#: includes/theme-admin.php:1150
+msgid "Yes"
+msgstr ""
+
+#: includes/options/metabox/post.php:140
+#: includes/options/metabox/post.php:152
+#: includes/options/metabox/post.php:165
+#: includes/options/metabox/post.php:178
+#: includes/options/metabox/post.php:190
+#: includes/options/metabox/post.php:202
+#: includes/options/metabox/post.php:214
+#: includes/options/metabox/top-menu.php:69
+#: includes/theme-admin.php:1151
+msgid "No"
+msgstr ""
+
+#: includes/options/metabox/post.php:146
+#: includes/options/theme-panel/sections/post.php:30
+msgid "Show Categories?"
+msgstr ""
+
+#: includes/options/metabox/post.php:158
+#: includes/options/theme-panel/sections/post.php:41
+msgid "Show Featured Image/Video?"
+msgstr ""
+
+#: includes/options/metabox/post.php:171
+#: includes/options/theme-panel/sections/post.php:69
+msgid "Show Excerpt?"
+msgstr ""
+
+#: includes/options/metabox/post.php:183
+#: includes/options/theme-panel/sections/post.php:79
+msgid "Show Tags?"
+msgstr ""
+
+#: includes/options/metabox/post.php:195
+#: includes/options/theme-panel/sections/post.php:89
+msgid "Show Next/Prev Post Links?"
+msgstr ""
+
+#: includes/options/metabox/post.php:207
+#: includes/options/theme-panel/sections/post.php:99
+msgid "Show Author Box?"
+msgstr ""
+
+#: includes/options/metabox/post.php:219
+#: includes/options/theme-panel/sections/post.php:796
+msgid "Related Posts Type"
+msgstr ""
+
+#: includes/options/metabox/post.php:225
+msgid "Show Related Posts"
+msgstr ""
+
+#: includes/options/metabox/post.php:226
+msgid "Auto Loaded Related Posts"
+msgstr ""
+
+#: includes/options/metabox/top-menu.php:15
+msgid "Sub Menu"
+msgstr ""
+
+#: includes/options/metabox/top-menu.php:37
+msgid "Animation"
+msgstr ""
+
+#: includes/options/theme-panel/sections/ads.php:7
+msgid "Background Ad"
+msgstr ""
+
+#: includes/options/theme-panel/sections/ads.php:13
+#: includes/options/theme-panel/sections/categories.php:4
+msgid "Tip"
+msgstr ""
+
+#: includes/options/theme-panel/sections/ads.php:14
+msgid "You should set Full Boxed layout style and add background image in \"General\" tab to use background ad."
+msgstr ""
+
+#: includes/options/theme-panel/sections/ads.php:22
+msgid "Background Ad Url"
+msgstr ""
+
+#: includes/options/theme-panel/sections/ads.php:30
+msgid "Background Ad Open New Tab"
+msgstr ""
+
+#: includes/options/theme-panel/sections/ads.php:32
+msgid "Open new tab"
+msgstr ""
+
+#: includes/options/theme-panel/sections/ads.php:33
+msgid "Current tab"
+msgstr ""
+
+#: includes/options/theme-panel/sections/advanced.php:4
+msgid "Sticky Sidebars Active?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/advanced.php:6
+msgid "This allows you to enable sticky widgets sidebars. Note: You have to add \"sticky-column\" class name to visual composer columns."
+msgstr ""
+
+#: includes/options/theme-panel/sections/advanced.php:16
+msgid "Enable Lazy Load Off-Canvas(Drawer) Menu?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/advanced.php:18
+msgid "This allows you to enable load off-canvas menu on demand. You can disable if you want to preload drawer menu but this will affect your page size."
+msgstr ""
+
+#: includes/options/theme-panel/sections/advanced.php:30
+msgid "Show Back to Top Button?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/advanced.php:31
+msgid "This button allows you to go page top quickly"
+msgstr ""
+
+#: includes/options/theme-panel/sections/advanced.php:41
+msgid "Recaptcha"
+msgstr ""
+
+#: includes/options/theme-panel/sections/advanced.php:48
+msgid "Enable Recaptcha"
+msgstr ""
+
+#: includes/options/theme-panel/sections/advanced.php:49
+msgid "Enable this feature to use recaptcha on login, register section."
+msgstr ""
+
+#: includes/options/theme-panel/sections/advanced.php:58
+msgid "Google Recaptcha Site Key"
+msgstr ""
+
+#: includes/options/theme-panel/sections/advanced.php:61
+#: includes/options/theme-panel/sections/advanced.php:77
+msgid "Create your recaptcha v2 site key, <a href=\"%s\">please go here</a>"
+msgstr ""
+
+#: includes/options/theme-panel/sections/advanced.php:74
+msgid "Google Recaptcha Secret Key"
+msgstr ""
+
+#: includes/options/theme-panel/sections/advanced.php:92
+msgid "Custom Codes"
+msgstr ""
+
+#: includes/options/theme-panel/sections/advanced.php:99
+msgid "Custom Head Code "
+msgstr ""
+
+#: includes/options/theme-panel/sections/advanced.php:107
+msgid "Custom Footer Code"
+msgstr ""
+
+#: includes/options/theme-panel/sections/archive.php:24
+msgid "Tag"
+msgstr ""
+
+#: includes/options/theme-panel/sections/archive.php:38
+msgid "Grid"
+msgstr ""
+
+#: includes/options/theme-panel/sections/archive.php:47
+#: includes/options/theme-panel/sections/archive.php:74
+#: includes/options/theme-panel/sections/archive.php:99
+#: includes/options/theme-panel/sections/archive.php:127
+msgid "Listing"
+msgstr ""
+
+#: includes/options/theme-panel/sections/archive.php:59
+msgid "Search Page"
+msgstr ""
+
+#: includes/options/theme-panel/sections/archive.php:85
+msgid "Author Page"
+msgstr ""
+
+#: includes/options/theme-panel/sections/archive.php:112
+msgid "Archive Pages"
+msgstr ""
+
+#: includes/options/theme-panel/sections/archive.php:136
+msgid "404 Not Found Page"
+msgstr ""
+
+#: includes/options/theme-panel/sections/archive.php:144
+msgid "404 Page Image"
+msgstr ""
+
+#: includes/options/theme-panel/sections/archive.php:145
+msgid "Select custom 404 image for 404 page"
+msgstr ""
+
+#: includes/options/theme-panel/sections/archive.php:155
+msgid "bbPress Page"
+msgstr ""
+
+#: includes/options/theme-panel/sections/archive.php:171
+msgid "BuddyPress Page"
+msgstr ""
+
+#: includes/options/theme-panel/sections/archive.php:181
+msgid "Dequeue BuddyPress Scripts from frontend?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/archive.php:182
+msgid "We do not need BuddyPress scripts on frontend. You may dequeue BuddyPress scripts in order to gain some page speed. By default we don't touch anything. you may activate some buddypress plugins depends on this."
+msgstr ""
+
+#: includes/options/theme-panel/sections/archive.php:193
+msgid "Deregister BuddyPress Blocks?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/archive.php:194
+msgid "You may deregister buddypress blocks in order to gain some page speed. By default BuddyPress does not have that option."
+msgstr ""
+
+#: includes/options/theme-panel/sections/archive.php:211
+msgid "WooCommerce Page"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:13
+msgid "Block Header"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:22
+#: includes/options/theme-panel/sections/post.php:769
+#: includes/options/theme-panel/sections/post.php:814
+#: includes/options/theme-panel/sections/post.php:892
+msgid "Block Header Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:23
+msgid "Select a default block header style."
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:29
+#: includes/options/theme-panel/sections/post.php:778
+#: includes/options/theme-panel/sections/post.php:900
+msgid "Block Extra Classes"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:30
+#: includes/theme-admin.php:1162
+#: includes/theme-admin.php:1286
+msgid "Select block extra classes. Ex: You can set boxed style block or dark style block with these predefined classes or you can add custom CSS classes."
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:42
+msgid "Block Pagination"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:47
+msgid "Block Loader Type"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:48
+msgid "Select a block pagination loading style."
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:52
+msgid "Dots"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:53
+msgid "Circle"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:54
+#: includes/options/theme-panel/sections/header.php:688
+msgid "Square"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:55
+msgid "Cube"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:63
+msgid "Load More Button"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:69
+msgid "Block Load More Button Width"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:88
+msgid "Load More Button Background Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:102
+msgid "Load More Button Text Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:116
+msgid "Load More Button Border Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:130
+msgid "Load More Button Hover Background Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:144
+msgid "Load More Button Hover Text Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:158
+msgid "Load More Button Hover Border Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:172
+msgid "Next-Prev Button"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:179
+msgid "Next Prev Button Background Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:192
+msgid "Next Prev Button Hover Background Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:205
+msgid "Next Prev Button Border Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:219
+msgid "Next Prev Button Hover Border Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:233
+msgid "Next Prev Button Text Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:247
+msgid "Next Prev Button Hover Text Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:260
+msgid "Block Parts Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:268
+msgid "Category Box Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:269
+msgid "Override category badges styles on blocks."
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:290
+msgid "Module: Featured Meta Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:291
+msgid "This option will set style meta wrapper on featured image in all listings."
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:305
+msgid "Block Share Buttons"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:315
+#: includes/options/theme-panel/sections/post.php:468
+msgid "Social Sites"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:316
+#: includes/options/theme-panel/sections/post.php:469
+msgid "Select active social share links and sort them."
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:328
+#: includes/options/theme-panel/sections/post.php:480
+msgid "Social Share Threshold"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:329
+#: includes/options/theme-panel/sections/post.php:481
+msgid "Set the number of social share threshold. The total number of social share will be shown if it reaches more than this threshold."
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:340
+#: includes/options/theme-panel/sections/post.php:492
+msgid "Social Icons Type"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:341
+#: includes/options/theme-panel/sections/post.php:493
+msgid "Set which social icons style that you want to use. "
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:345
+#: includes/options/theme-panel/sections/blocks.php:346
+#: includes/options/theme-panel/sections/blocks.php:347
+#: includes/options/theme-panel/sections/blocks.php:348
+#: includes/options/theme-panel/sections/blocks.php:349
+#: includes/options/theme-panel/sections/blocks.php:350
+#: includes/options/theme-panel/sections/footer.php:298
+#: includes/options/theme-panel/sections/footer.php:299
+#: includes/options/theme-panel/sections/footer.php:300
+#: includes/options/theme-panel/sections/footer.php:301
+#: includes/options/theme-panel/sections/footer.php:302
+#: includes/options/theme-panel/sections/footer.php:303
+#: includes/options/theme-panel/sections/header.php:593
+#: includes/options/theme-panel/sections/header.php:594
+#: includes/options/theme-panel/sections/header.php:595
+#: includes/options/theme-panel/sections/header.php:596
+#: includes/options/theme-panel/sections/header.php:597
+#: includes/options/theme-panel/sections/header.php:598
+#: includes/options/theme-panel/sections/post.php:301
+#: includes/options/theme-panel/sections/post.php:302
+#: includes/options/theme-panel/sections/post.php:303
+#: includes/options/theme-panel/sections/post.php:304
+#: includes/options/theme-panel/sections/post.php:497
+#: includes/options/theme-panel/sections/post.php:498
+#: includes/options/theme-panel/sections/post.php:499
+#: includes/options/theme-panel/sections/post.php:500
+#: includes/options/theme-panel/sections/post.php:501
+#: includes/options/theme-panel/sections/post.php:502
+#: includes/options/theme-panel/sections/post.php:579
+#: includes/options/theme-panel/sections/post.php:580
+#: includes/theme-admin.php:502
+#: includes/theme-admin.php:506
+#: includes/theme-admin.php:510
+#: includes/theme-admin.php:514
+#: includes/theme-admin.php:518
+#: includes/theme-admin.php:522
+#: includes/theme-admin.php:526
+#: includes/theme-admin.php:530
+#: includes/theme-admin.php:534
+#: includes/theme-admin.php:563
+#: includes/theme-admin.php:567
+#: includes/theme-admin.php:571
+#: includes/theme-admin.php:575
+#: includes/theme-admin.php:579
+#: includes/theme-admin.php:583
+#: includes/theme-admin.php:601
+#: includes/theme-admin.php:605
+#: includes/theme-admin.php:609
+#: includes/theme-admin.php:613
+#: includes/theme-admin.php:617
+#: includes/theme-admin.php:667
+#: includes/theme-admin.php:671
+#: includes/theme-admin.php:675
+#: includes/theme-admin.php:679
+#: includes/theme-admin.php:683
+#: includes/theme-admin.php:687
+#: includes/theme-admin.php:691
+#: includes/theme-admin.php:695
+#: includes/theme-admin.php:699
+#: includes/theme-admin.php:703
+#: includes/theme-admin.php:707
+msgid "Style %s"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:354
+#: includes/options/theme-panel/sections/post.php:506
+msgid "Show Share Count?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:355
+#: includes/options/theme-panel/sections/post.php:507
+msgid "Enabling this will show post share count in share box."
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:360
+#: includes/options/theme-panel/sections/post.php:512
+msgid "Show only each site count"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:361
+#: includes/options/theme-panel/sections/post.php:513
+msgid "Show only total count"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:362
+#: includes/options/theme-panel/sections/post.php:514
+msgid "Show total share count and each site count"
+msgstr ""
+
+#: includes/options/theme-panel/sections/blocks.php:363
+#: includes/options/theme-panel/sections/post.php:515
+msgid "No share count"
+msgstr ""
+
+#: includes/options/theme-panel/sections/categories.php:5
+msgid "You can override this settings for per category in category edit pages"
+msgstr ""
+
+#: includes/options/theme-panel/sections/categories.php:13
+msgid "Category: Header"
+msgstr ""
+
+#: includes/options/theme-panel/sections/categories.php:21
+msgid "Select a category header style."
+msgstr ""
+
+#: includes/options/theme-panel/sections/categories.php:124
+msgid "Show Description?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/categories.php:134
+msgid "Show Subcategories?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/categories.php:145
+msgid "Category: Layout "
+msgstr ""
+
+#: includes/options/theme-panel/sections/categories.php:153
+msgid "Category: Grid"
+msgstr ""
+
+#: includes/options/theme-panel/sections/categories.php:162
+msgid "Category: Listing "
+msgstr ""
+
+#: includes/options/theme-panel/sections/colors.php:5
+msgid "Color Scheme"
+msgstr ""
+
+#: includes/options/theme-panel/sections/colors.php:14
+msgid "Site Color Scheme"
+msgstr ""
+
+#: includes/options/theme-panel/sections/colors.php:15
+msgid "Choose your site color scheme."
+msgstr ""
+
+#: includes/options/theme-panel/sections/colors.php:23
+msgid "Site Highlight Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/colors.php:24
+msgid "It is the contrast color for the theme. It will be used for all links, menu, category overlays, blocks, main page and many contrasting elements."
+msgstr ""
+
+#: includes/options/theme-panel/sections/colors.php:52
+msgid "Site Accent Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/colors.php:53
+msgid "Set general accent color."
+msgstr ""
+
+#: includes/options/theme-panel/sections/colors.php:71
+msgid "Site Block Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/colors.php:72
+msgid "It is the default color for the blocks. It will be used for all block items. You can override this option for each block."
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:5
+#: includes/options/theme-panel/theme-options.php:7
+msgid "General"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:14
+msgid "Site Base Typography (Body)"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:15
+#: includes/options/theme-panel/sections/post.php:213
+msgid "Base typography for body that will affect all elements that haven't specified typography style."
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:29
+msgid "Heading"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:36
+msgid "General Heading Typography"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:55
+msgid "H1 Font Size"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:76
+msgid "H2 Font Size"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:97
+msgid "H3 Font Size"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:117
+msgid "H4 Font Size"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:137
+msgid "H5 Font Size"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:158
+msgid "H6 Font Size"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:188
+msgid "Main Menu Typography"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:206
+msgid "Main Menu Text Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:220
+msgid "Main Menu Hover Text Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:234
+msgid "Main Menu Hover Background Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:250
+msgid "Main Menu Active Text Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:269
+msgid "Main Menu Active Background Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:285
+msgid "Main Menu Icon Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:299
+msgid "Main Menu Hover Bottom Line Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:317
+msgid "Submenu"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:324
+msgid "Sub Menu Typography"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:344
+msgid "Top Menu Typography"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:358
+msgid "Top Bar Menu Hover Text Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:379
+msgid "Mobile Menu Typography"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:405
+msgid "Footer Menu Typography"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:422
+msgid "Footer Menu Hover Text Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:436
+msgid "Footer Menu Hover Background Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:452
+msgid "Footer Menu Active Text Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:471
+msgid "Footer Menu Active Background Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:485
+msgid "Archive"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:492
+msgid "Archive Name Typography"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:519
+msgid "Typography of post title in single posts."
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:533
+msgid "Post Summary"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:534
+msgid "Base typography for posts summary in single posts."
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:547
+msgid "Posts & Pages Content"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:548
+msgid "Base typography for content of posts and static pages."
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:565
+msgid "Block"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:573
+msgid "Block Title"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:574
+msgid "Base typography for content of block header titles."
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:590
+msgid "Block Tabs"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:591
+msgid "Base typography for content of block header tabs."
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:609
+msgid "Module Category"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:617
+msgid "Category Badge Typography"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:618
+msgid "Base typography for badge type category items in all blocks."
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:638
+msgid "Inline Category Typography"
+msgstr ""
+
+#: includes/options/theme-panel/sections/fonts.php:639
+msgid "Base typography for inline type category items in all blocks. Inline type is just a category name without box."
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:4
+msgid "footer Custom Template"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:14
+msgid "Footer Parts"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:27
+#: includes/options/theme-panel/sections/footer.php:42
+msgid "Footer Presets"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:34
+#: includes/options/theme-panel/sections/header.php:67
+msgid "Warning"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:35
+msgid "This option will reset your settings in footer"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:43
+#: includes/options/theme-panel/sections/header.php:77
+msgid "Choose a predefined preset for your layout."
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:117
+msgid "Footer Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:125
+msgid "Footer Wrap Background Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:126
+#: includes/options/theme-panel/sections/header.php:191
+msgid "Select header wrapper color."
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:139
+msgid "Footer Background Image"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:140
+#: includes/options/theme-panel/sections/header.php:205
+msgid "Use light patterns in non-boxed layout. For patterns, use a repeating background. Use photo to fully cover the background with an image. Note that it will override the background color option."
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:157
+#: includes/options/theme-panel/sections/header.php:239
+msgid "Top Bar"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:163
+#: includes/options/theme-panel/sections/footer.php:206
+#: includes/options/theme-panel/sections/footer.php:248
+#: includes/options/theme-panel/sections/header.php:245
+#: includes/options/theme-panel/sections/header.php:288
+#: includes/options/theme-panel/sections/header.php:330
+#: includes/options/theme-panel/sections/header.php:389
+#: includes/options/theme-panel/sections/header.php:437
+#: includes/options/theme-panel/sections/post.php:212
+msgid "Row Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:164
+#: includes/options/theme-panel/sections/footer.php:207
+#: includes/options/theme-panel/sections/footer.php:249
+#: includes/options/theme-panel/sections/header.php:246
+#: includes/options/theme-panel/sections/header.php:289
+#: includes/options/theme-panel/sections/header.php:331
+#: includes/options/theme-panel/sections/header.php:390
+#: includes/options/theme-panel/sections/header.php:438
+msgid "Base css style for the row. You can add specific colors and spaces for row."
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:180
+#: includes/options/theme-panel/sections/footer.php:223
+#: includes/options/theme-panel/sections/footer.php:265
+#: includes/options/theme-panel/sections/header.php:262
+#: includes/options/theme-panel/sections/header.php:305
+#: includes/options/theme-panel/sections/header.php:348
+#: includes/options/theme-panel/sections/header.php:406
+#: includes/options/theme-panel/sections/header.php:454
+#: includes/options/theme-panel/sections/post.php:233
+msgid "Row Height"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:200
+#: includes/options/theme-panel/sections/header.php:282
+msgid "Mid Bar"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:242
+#: includes/options/theme-panel/sections/header.php:324
+msgid "Bottom Bar"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:286
+msgid "Footer: Menu"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:293
+msgid "Footer Menu Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:294
+msgid "Select style of footer menu."
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:317
+msgid "Footer: Logo"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:323
+msgid "Footer: Social Icons"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:335
+msgid "Footer: Copyright"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:341
+msgid "Copyright Text"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:342
+msgid "Enter the copy right text of footer. You can use following pattern to make replace them with real data: #year#: Will replace with current year, ex: 2015. #date#: Will replace with current year, ex: 2015. #sitename#: Will replace with site title. #title#: Will replace with site title. #siteurl#: Will replace with site homepage url."
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:353
+msgid "Footer: Button"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:374
+#: includes/options/theme-panel/sections/footer.php:382
+msgid "Footer: Ad"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:391
+msgid "Footer: HTML Element"
+msgstr ""
+
+#: includes/options/theme-panel/sections/footer.php:400
+#: includes/options/theme-panel/sections/header.php:1016
+msgid "HTML"
+msgstr ""
+
+#: includes/options/theme-panel/sections/general.php:4
+msgid "Site: Layout "
+msgstr ""
+
+#: includes/options/theme-panel/sections/general.php:13
+msgid "Site: Grid"
+msgstr ""
+
+#: includes/options/theme-panel/sections/general.php:22
+msgid "Site: Listing "
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:4
+msgid "Header Custom Template"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:14
+msgid "Desktop Parts"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:25
+msgid "Mobile Parts"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:36
+msgid "Sticky Parts"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:47
+msgid "Drawer Parts"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:60
+#: includes/options/theme-panel/sections/header.php:76
+msgid "Header Presets"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:68
+msgid "This option will reset your settings in header"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:183
+msgid "Header Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:221
+msgid "Header Shadow?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:222
+msgid "Enable shadow effect for header wrap."
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:231
+msgid "Header: Desktop Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:367
+msgid "Header: Sticky Bar Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:375
+msgid "Sticky Type"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:376
+msgid "Enable sticky effect or disable sticky header."
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:380
+msgid "Smart Sticky"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:381
+msgid "Simple Sticky"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:382
+msgid "No Sticky"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:429
+msgid "Header: Mobile Bar Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:472
+msgid "Header: Drawer Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:501
+msgid "Drawer Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:502
+msgid "Set style for Drawer Menu. Tip: Set Dark layout in Header > Drawer Bar if you preffer to use background color or image."
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:523
+msgid "Header: Logo"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:536
+msgid "Header: Sticky Logo"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:548
+msgid "Header: Mobile Logo"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:558
+msgid "Header: Main Menu"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:565
+#: includes/options/theme-panel/sections/header.php:611
+msgid "Activate Responsive More Menu?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:576
+msgid "Fit Menu To Container?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:587
+msgid "Menu Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:588
+msgid "Select pagination of homepage."
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:592
+msgid "Default Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:605
+msgid "Header: Top Menu"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:622
+msgid "Header: Date"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:637
+msgid "Date Typography"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:651
+msgid "Header: Social Icons"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:660
+msgid "Header: Search Form"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:668
+msgid "Search Form Width"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:685
+msgid "Search Form Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:689
+#: includes/theme-admin.php:937
+msgid "Round"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:690
+#: includes/theme-admin.php:938
+msgid "Rounded"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:696
+msgid "Header Search Background Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:709
+msgid "Header Search Hover Background Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:723
+msgid "Header Search Text Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:737
+msgid "Header Search Hover Text Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:750
+msgid "Header Search Border Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:763
+msgid "Header Search Hover Border Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:779
+msgid "Header Search Button Background Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:792
+msgid "Header Search Button Hover Background Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:805
+msgid "Header Search Icon Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:818
+msgid "Header Search Icon Hover Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:830
+msgid "Header: Search Button"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:839
+msgid "Search Button Icon Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:852
+msgid "Search Button Hover Icon Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:868
+msgid "Search Button Background Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:881
+msgid "Search Button Hover Background Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:896
+msgid "Header: Menu Handler"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:904
+msgid "Menu Handler Lines Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:921
+msgid "Menu Handler Lines Hover Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:936
+msgid "Menu Handler Text"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:941
+msgid "Header: Create Button"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:957
+msgid "Create"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:968
+msgid "Header: Button"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:989
+#: includes/options/theme-panel/sections/header.php:997
+msgid "Header: Ad"
+msgstr ""
+
+#: includes/options/theme-panel/sections/header.php:1007
+msgid "Header: HTML Element"
+msgstr ""
+
+#: includes/options/theme-panel/sections/home.php:6
+msgid "Important Note"
+msgstr ""
+
+#: includes/options/theme-panel/sections/home.php:7
+msgid "Following options doesn't work if you selected static page for front page in WP > Settings > Reading"
+msgstr ""
+
+#: includes/options/theme-panel/sections/home.php:13
+msgid "Home: Layout"
+msgstr ""
+
+#: includes/options/theme-panel/sections/home.php:21
+msgid "Home: Grid"
+msgstr ""
+
+#: includes/options/theme-panel/sections/home.php:29
+msgid "Home: Listing"
+msgstr ""
+
+#: includes/options/theme-panel/sections/modules.php:12
+msgid "Global Module"
+msgstr ""
+
+#: includes/options/theme-panel/sections/modules.php:31
+#: includes/options/theme-panel/sections/modules.php:160
+msgid "Module Typography"
+msgstr ""
+
+#: includes/options/theme-panel/sections/modules.php:40
+#: includes/options/theme-panel/sections/modules.php:171
+msgid "Module: Post Title"
+msgstr ""
+
+#: includes/options/theme-panel/sections/modules.php:41
+#: includes/options/theme-panel/sections/modules.php:172
+msgid "Typography of posts title in block posts."
+msgstr ""
+
+#: includes/options/theme-panel/sections/modules.php:58
+msgid "Module: Post Title Hover Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/modules.php:72
+#: includes/options/theme-panel/sections/modules.php:189
+msgid "Module: Post Summary"
+msgstr ""
+
+#: includes/options/theme-panel/sections/modules.php:73
+#: includes/options/theme-panel/sections/modules.php:190
+msgid "Typography of posts summary in block posts."
+msgstr ""
+
+#: includes/options/theme-panel/sections/modules.php:90
+#: includes/options/theme-panel/sections/modules.php:207
+msgid "Module: Post Meta"
+msgstr ""
+
+#: includes/options/theme-panel/sections/modules.php:91
+#: includes/options/theme-panel/sections/modules.php:208
+msgid "Typography of posts meta in block posts."
+msgstr ""
+
+#: includes/options/theme-panel/sections/modules.php:108
+msgid "Module: Post Meta (Author Name)"
+msgstr ""
+
+#: includes/options/theme-panel/sections/modules.php:109
+msgid "Typography of posts author name in post meta."
+msgstr ""
+
+#: includes/options/theme-panel/sections/modules.php:130
+msgid "Info"
+msgstr ""
+
+#: includes/options/theme-panel/sections/modules.php:131
+msgid "Following options will set the global part and typography settings for each module."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:3
+msgid "Post: Template "
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:10
+msgid "Single post template"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:11
+msgid "Select default template for single posts. This option can be overridden on all posts."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:110
+msgid "Article Extra Classes"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:111
+msgid "Choose post wrapper classes. You can add your own classes or choose from predefined classes."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:123
+msgid "Post Image Popup Script"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:124
+msgid "Turn on this option to use featured image with popup."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:134
+msgid "Post Images as Gallery"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:135
+msgid "Set images on a single post as one instance of gallery."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:147
+msgid "Post Video Autoplay?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:149
+msgid "Enable autoplay for video post format."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:158
+msgid "Post: Sticky Header"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:166
+msgid "Post Sticky Enabled?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:167
+msgid "Enable or disable  sticky bar for post pages."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:175
+msgid "Post Sticky Custom Template"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:189
+msgid "Post Sticky Parts"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:199
+msgid "Post Sticky Bar Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:262
+msgid "Post Progress Bar Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:278
+msgid "Post: Layout "
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:288
+msgid "Post: Meta"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:296
+msgid "Post Meta Type"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:297
+msgid "Select a meta style type."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:309
+msgid "Show Post Author?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:323
+msgid "Show Post Author Avatar?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:337
+msgid "Show Post Date?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:351
+msgid "Post Date Format?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:356
+msgid "Ago"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:357
+msgid "Custom Format"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:366
+msgid "Post Date Custom Format?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:379
+msgid "Show Post Comment Count?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:393
+msgid "Show Post View Count?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:408
+msgid "Post: Autoload"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:414
+msgid "Post Autoload"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:415
+msgid "Enabling this will enable next post autoload."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:427
+msgid "Post Autoload Inline"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:428
+msgid "Enabling this will use inline post autoload. This Option is only available for Post Template 1-2-3-4."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:443
+msgid "Autoload Content Filter"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:444
+msgid "Choose which the most relevant content will autoload after current post."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:446
+msgid "By Sequence"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:447
+msgid "By Category"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:448
+msgid "By Tag"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:459
+msgid "Post: Share"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:520
+msgid "Show Top Share Buttons"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:521
+msgid "Enabling this will adds share links in top of single post."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:531
+msgid "Show Bottom Share Buttons"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:532
+msgid "Enabling this will adds share links in in bottom of single post"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:542
+msgid "Share Count Check Interval Time"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:543
+msgid "Here you can set the check interval time for share counts from providers. Default is 60 mins."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:552
+msgid "Post: Voting"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:563
+msgid "Post Voting Position"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:564
+msgid "Choose position of voting buttons on the single post."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:566
+msgid "Post Meta Left"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:567
+msgid "Post Meta Right"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:568
+msgid "Post Share Right"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:576
+msgid "Post Voting Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:577
+msgid "Choose which style you prefer for your voting buttons."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:587
+msgid "Post Voting Count Show Type"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:588
+msgid "Choose counts reveal type for voting."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:590
+msgid "Show Only Avarage Count"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:591
+msgid "Show Only Items Count"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:600
+msgid "Show Only Up/Like Voting Button "
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:601
+msgid "Choose if you only want to show up/like button."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:610
+msgid "Up/Like Voting Icon"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:618
+msgid "Down/Dislike Voting Icon"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:631
+msgid "Guest voting is enabled?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:632
+msgid "Enabling this will activate guest post voting."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:642
+msgid "Post: View Counter"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:653
+msgid "Enable 7 days Views?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:654
+msgid "This allows weekly most liked posts on post blocks filter tab."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:662
+msgid "Custom View Count Icons"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:663
+msgid "This allows you to select custom icons for view counts on the post meta."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:669
+msgid "Views more than"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:683
+msgid "Color"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:695
+#: includes/options/theme-panel/sections/post.php:714
+msgid "Post: Newsletter Box"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:704
+msgid "Show Newsletter?"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:728
+msgid "Block Style"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:729
+msgid "Here you can add additional style for newsletter box"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:748
+msgid "Post: Reaction Box"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:759
+msgid "Show Reaction Voting Box"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:770
+#: includes/options/theme-panel/sections/post.php:815
+msgid "Default block header style."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:779
+msgid "Override category loop."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:789
+msgid "Post: Related Posts"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:797
+msgid "Choose which the most relevant content will be shown."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:802
+msgid "Related Posts by Category"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:803
+msgid "Related Posts by Tag"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:804
+msgid "Hide Related Posts"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:824
+msgid "Post: Comments"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:831
+msgid "Comments Tabs"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:832
+msgid "Select to show or hide comments in bottom of post content. Select multiple types to show as tab. You can order comments types."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:842
+msgid "Comments Load Type"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:843
+msgid "Select comments load type in the post content."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:847
+msgid "Normal Load"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:848
+msgid "Ajax Load Button"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:854
+msgid "Facebook Comment App ID"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:855
+msgid "Insert your Facebook App id. Please note, this option will appear and work if you choose Facebook Comment on Comment Tabs option on above."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:862
+msgid "Disqus Api Key"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:863
+msgid "Insert your Disqus API key. Please note, this option will work if you choose Disqus Comment on Comment Tabs option on above."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:870
+msgid "Disqus Comment Shortname"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:871
+msgid "Insert your Disqus shortname. You can register your website and get Disqus shortname for your website here. Please note, this option will work if you choose Disqus Comment on Comment Tabs option on above."
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:878
+msgid "Remove URL Field from WP Comment Form"
+msgstr ""
+
+#: includes/options/theme-panel/sections/post.php:879
+msgid "With enabling this URL will removed from comments form."
+msgstr ""
+
+#: includes/options/theme-panel/system-report.php:5
+msgid "Newsy Versions"
+msgstr ""
+
+#: includes/options/theme-panel/system-report.php:12
+msgid "Version"
+msgstr ""
+
+#: includes/options/theme-panel/system-report.php:17
+msgid "History"
+msgstr ""
+
+#: includes/options/theme-panel/system-report.php:26
+msgid "WordPress Environment"
+msgstr ""
+
+#: includes/options/theme-panel/system-report.php:85
+msgid "Caching plugin:"
+msgstr ""
+
+#: includes/options/theme-panel/system-report.php:92
+msgid "Server Environment"
+msgstr ""
+
+#: includes/options/theme-panel/system-report.php:126
+msgid " Second"
+msgstr ""
+
+#: includes/options/theme-panel/system-report.php:144
+msgid "SUHOSIN Installed:"
+msgstr ""
+
+#: includes/options/theme-panel/system-report.php:145
+msgid "check SUHOSIN Installed?"
+msgstr ""
+
+#: includes/options/theme-panel/system-report.php:170
+msgid "Active Plugins (%%count%%)"
+msgstr ""
+
+#: includes/options/theme-panel/system-report.php:178
+msgid "Get system report"
+msgstr ""
+
+#: includes/options/theme-panel/theme-options.php:29
+msgid "Footer"
+msgstr ""
+
+#: includes/options/theme-panel/theme-options.php:37
+msgid "Page Settings"
+msgstr ""
+
+#: includes/options/theme-panel/theme-options.php:42
+msgid "Homepage"
+msgstr ""
+
+#: includes/options/theme-panel/theme-options.php:50
+msgid "Post Page"
+msgstr ""
+
+#: includes/options/theme-panel/theme-options.php:58
+msgid "Categories"
+msgstr ""
+
+#: includes/options/theme-panel/theme-options.php:68
+msgid "Other Pages"
+msgstr ""
+
+#: includes/options/theme-panel/theme-options.php:77
+msgid "Style Settings"
+msgstr ""
+
+#: includes/options/theme-panel/theme-options.php:86
+msgid "Colors"
+msgstr ""
+
+#: includes/options/theme-panel/theme-options.php:93
+msgid "Typography"
+msgstr ""
+
+#: includes/options/theme-panel/theme-options.php:101
+msgid "Blocks"
+msgstr ""
+
+#: includes/options/theme-panel/theme-options.php:112
+msgid "Modules"
+msgstr ""
+
+#: includes/options/theme-panel/theme-options.php:120
+msgid "Other Settings"
+msgstr ""
+
+#: includes/options/theme-panel/theme-options.php:126
+msgid "Ads"
+msgstr ""
+
+#: includes/options/theme-panel/theme-options.php:134
+msgid "Advanced"
+msgstr ""
+
+#: includes/options/theme-panel/theme-translation.php:37
+msgid "First %1$s will be replaced with search keyword and second %2$s will be replaced with search result count."
+msgstr ""
+
+#: includes/theme-admin.php:30
+msgid "Header Top"
+msgstr ""
+
+#: includes/theme-admin.php:34
+msgid "Header Bottom"
+msgstr ""
+
+#: includes/theme-admin.php:38
+msgid "Footer Top"
+msgstr ""
+
+#: includes/theme-admin.php:42
+msgid "Post Top"
+msgstr ""
+
+#: includes/theme-admin.php:46
+msgid "Archive Grid Top"
+msgstr ""
+
+#: includes/theme-admin.php:50
+msgid "Archive Grid Bottom"
+msgstr ""
+
+#: includes/theme-admin.php:54
+msgid "Post Content Top"
+msgstr ""
+
+#: includes/theme-admin.php:58
+msgid "Post Content Bottom"
+msgstr ""
+
+#: includes/theme-admin.php:94
+msgid "Logo Type"
+msgstr ""
+
+#: includes/theme-admin.php:96
+msgid "Choose logo type."
+msgstr ""
+
+#: includes/theme-admin.php:99
+msgid "Text"
+msgstr ""
+
+#: includes/theme-admin.php:100
+msgid "Image"
+msgstr ""
+
+#: includes/theme-admin.php:106
+msgid "Logo Image"
+msgstr ""
+
+#: includes/theme-admin.php:108
+#: includes/theme-admin.php:120
+#: includes/theme-admin.php:132
+#: includes/theme-admin.php:144
+msgid "By default, a text-based logo is created using your site title. But you can also upload an image-based logo here."
+msgstr ""
+
+#: includes/theme-admin.php:118
+msgid "Logo 2x Image"
+msgstr ""
+
+#: includes/theme-admin.php:130
+msgid "Logo Dark Image"
+msgstr ""
+
+#: includes/theme-admin.php:142
+msgid "Logo Dark 2x Image"
+msgstr ""
+
+#: includes/theme-admin.php:154
+msgid "Text Logo"
+msgstr ""
+
+#: includes/theme-admin.php:156
+msgid "Enter your site name here for logo text.<br> <code>Tip:</code> Enter site tagline here to add this to logo alt attribute."
+msgstr ""
+
+#: includes/theme-admin.php:170
+msgid "Logo Max Width"
+msgstr ""
+
+#: includes/theme-admin.php:195
+msgid "Text Logo Typography"
+msgstr ""
+
+#: includes/theme-admin.php:228
+msgid "Full Width"
+msgstr ""
+
+#: includes/theme-admin.php:229
+msgid "Full Boxed"
+msgstr ""
+
+#: includes/theme-admin.php:230
+msgid "Boxed Content"
+msgstr ""
+
+#: includes/theme-admin.php:262
+msgid "Select the layout you want, whether a single column or a 2 column one. It affects every page and the whole layout. This option can be overridden on all sections."
+msgstr ""
+
+#: includes/theme-admin.php:274
+#: includes/theme-config.php:805
+msgid "Primary Sidebar"
+msgstr ""
+
+#: includes/theme-admin.php:275
+msgid "Pick a sidebar for Primary Sidebar."
+msgstr ""
+
+#: includes/theme-admin.php:288
+#: includes/theme-config.php:806
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: includes/theme-admin.php:289
+msgid "Pick a sidebar for Secondary Sidebar."
+msgstr ""
+
+#: includes/theme-admin.php:304
+msgid "Primary Sidebar Content Gap"
+msgstr ""
+
+#: includes/theme-admin.php:305
+msgid "Gap between content and primary sidebar."
+msgstr ""
+
+#: includes/theme-admin.php:340
+msgid "Layout Style"
+msgstr ""
+
+#: includes/theme-admin.php:341
+msgid "Select whether you want a boxed or a full width layout."
+msgstr ""
+
+#: includes/theme-admin.php:354
+msgid "Site Container Width"
+msgstr ""
+
+#: includes/theme-admin.php:355
+msgid "Set cointainer width for site."
+msgstr ""
+
+#: includes/theme-admin.php:396
+msgid "Site Boxed Container Width"
+msgstr ""
+
+#: includes/theme-admin.php:397
+msgid "Set inner width for boxed style container."
+msgstr ""
+
+#: includes/theme-admin.php:428
+msgid "Site Background Color"
+msgstr ""
+
+#: includes/theme-admin.php:429
+msgid "Set a body background color."
+msgstr ""
+
+#: includes/theme-admin.php:447
+msgid "Site Boxed Background Color"
+msgstr ""
+
+#: includes/theme-admin.php:448
+msgid "Set a inner container background color for boxed styles."
+msgstr ""
+
+#: includes/theme-admin.php:469
+msgid "Site Background Image"
+msgstr ""
+
+#: includes/theme-admin.php:646
+msgid "No Mega Menu"
+msgstr ""
+
+#: includes/theme-admin.php:711
+msgid "Video Style"
+msgstr ""
+
+#: includes/theme-admin.php:804
+msgid "Plugin Required"
+msgstr ""
+
+#: includes/theme-admin.php:805
+msgid "You should enable \"%s\" plugin to access this options."
+msgstr ""
+
+#: includes/theme-admin.php:832
+msgid "Select Social Icons"
+msgstr ""
+
+#: includes/theme-admin.php:833
+msgid "Select active social links and sort them."
+msgstr ""
+
+#: includes/theme-admin.php:843
+msgid "Social Icons Style"
+msgstr ""
+
+#: includes/theme-admin.php:844
+msgid "Select whether you want a rounded or a light layout for social icons."
+msgstr ""
+
+#: includes/theme-admin.php:848
+msgid "Colored Rounded"
+msgstr ""
+
+#: includes/theme-admin.php:849
+msgid "Colored Square"
+msgstr ""
+
+#: includes/theme-admin.php:850
+msgid "Colored Circle"
+msgstr ""
+
+#: includes/theme-admin.php:852
+msgid "Light Box"
+msgstr ""
+
+#: includes/theme-admin.php:857
+msgid "Social Icons Background Color"
+msgstr ""
+
+#: includes/theme-admin.php:858
+msgid "Override Icon Background Color."
+msgstr ""
+
+#: includes/theme-admin.php:871
+msgid "Social Icons Color"
+msgstr ""
+
+#: includes/theme-admin.php:872
+msgid "Override Icon Color."
+msgstr ""
+
+#: includes/theme-admin.php:901
+msgid "Button Text"
+msgstr ""
+
+#: includes/theme-admin.php:909
+msgid "Button Icon"
+msgstr ""
+
+#: includes/theme-admin.php:915
+msgid "Button Link"
+msgstr ""
+
+#: includes/theme-admin.php:923
+msgid "Button Target"
+msgstr ""
+
+#: includes/theme-admin.php:925
+msgid "Blank"
+msgstr ""
+
+#: includes/theme-admin.php:926
+msgid "Self"
+msgstr ""
+
+#: includes/theme-admin.php:927
+msgid "Parent"
+msgstr ""
+
+#: includes/theme-admin.php:933
+msgid "Button Style"
+msgstr ""
+
+#: includes/theme-admin.php:934
+msgid "Choose button style."
+msgstr ""
+
+#: includes/theme-admin.php:939
+msgid "Outline"
+msgstr ""
+
+#: includes/theme-admin.php:945
+msgid "Background Color"
+msgstr ""
+
+#: includes/theme-admin.php:957
+msgid "Background Hover Color"
+msgstr ""
+
+#: includes/theme-admin.php:969
+msgid "Text Color"
+msgstr ""
+
+#: includes/theme-admin.php:981
+msgid "Text Hover Color"
+msgstr ""
+
+#: includes/theme-admin.php:993
+msgid "Border Color"
+msgstr ""
+
+#: includes/theme-admin.php:1005
+msgid "Border Hover Color"
+msgstr ""
+
+#: includes/theme-admin.php:1017
+msgid "Require Login?"
+msgstr ""
+
+#: includes/theme-admin.php:1018
+msgid "Clicking this button will require user login."
+msgstr ""
+
+#: includes/theme-admin.php:1091
+msgid "Grid Style"
+msgstr ""
+
+#: includes/theme-admin.php:1092
+msgid "Select grid style."
+msgstr ""
+
+#: includes/theme-admin.php:1103
+msgid "Grid Overlay Gradient"
+msgstr ""
+
+#: includes/theme-admin.php:1104
+msgid "Select grid overlay style."
+msgstr ""
+
+#: includes/theme-admin.php:1117
+msgid "Grid Item Margin"
+msgstr ""
+
+#: includes/theme-admin.php:1118
+msgid "Select grid items space size."
+msgstr ""
+
+#: includes/theme-admin.php:1130
+msgid "Grid Height"
+msgstr ""
+
+#: includes/theme-admin.php:1131
+msgid "Select grid height."
+msgstr ""
+
+#: includes/theme-admin.php:1143
+msgid "Grid Full Width"
+msgstr ""
+
+#: includes/theme-admin.php:1145
+msgid "When possible grid will use full-width container."
+msgstr ""
+
+#: includes/theme-admin.php:1161
+msgid "Grid Block Extra Classes"
+msgstr ""
+
+#: includes/theme-admin.php:1203
+msgid "List Style"
+msgstr ""
+
+#: includes/theme-admin.php:1204
+msgid "Select list block style."
+msgstr ""
+
+#: includes/theme-admin.php:1215
+msgid "List Post Count"
+msgstr ""
+
+#: includes/theme-admin.php:1216
+msgid "Override posts count. Default is value at Settings > Reading"
+msgstr ""
+
+#: includes/theme-admin.php:1230
+msgid "List Pagination"
+msgstr ""
+
+#: includes/theme-admin.php:1231
+msgid "Select pagination type for this template."
+msgstr ""
+
+#: includes/theme-admin.php:1237
+msgid "Simple Pagination"
+msgstr ""
+
+#: includes/theme-admin.php:1238
+msgid "Ajax Load more"
+msgstr ""
+
+#: includes/theme-admin.php:1239
+msgid "Infinity loading"
+msgstr ""
+
+#: includes/theme-admin.php:1240
+msgid "Ajax Next Prev"
+msgstr ""
+
+#: includes/theme-admin.php:1241
+msgid "No Pagination"
+msgstr ""
+
+#: includes/theme-admin.php:1251
+msgid "List Block Columns"
+msgstr ""
+
+#: includes/theme-admin.php:1252
+msgid "Select block columns size for supported posts block."
+msgstr ""
+
+#: includes/theme-admin.php:1257
+msgid "Auto"
+msgstr ""
+
+#: includes/theme-admin.php:1258
+msgid "2 Column"
+msgstr ""
+
+#: includes/theme-admin.php:1259
+msgid "3 Column"
+msgstr ""
+
+#: includes/theme-admin.php:1260
+msgid "4 Column"
+msgstr ""
+
+#: includes/theme-admin.php:1261
+msgid "5 Column"
+msgstr ""
+
+#: includes/theme-admin.php:1271
+msgid "List Item Margin"
+msgstr ""
+
+#: includes/theme-admin.php:1272
+msgid "Select loop block items space size."
+msgstr ""
+
+#: includes/theme-admin.php:1285
+msgid "List Block Extra Classes"
+msgstr ""
+
+#: includes/theme-admin.php:1302
+msgid "List Override Parts?"
+msgstr ""
+
+#: includes/theme-admin.php:1303
+msgid "Override loop parts for selected loop style above. This option will override selected loop style on \"Modules\" tab."
+msgstr ""
+
+#: includes/theme-config.php:48
+msgid "Welcome"
+msgstr ""
+
+#: includes/theme-config.php:53
+msgid "Welcome to Newsy"
+msgstr ""
+
+#: includes/theme-config.php:54
+msgid "Congratulations! You are about to use most powerful viral theme ever - The theme with advanced Frontend and Backend options by akbilisim."
+msgstr ""
+
+#: includes/theme-config.php:59
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/theme-config.php:64
+msgid "Premium and Included Plugins"
+msgstr ""
+
+#: includes/theme-config.php:65
+msgid "Install the included plugins with ease using this panel. All the plugins are well tested to work with the theme and we keep them up to date. The themes comes packed with the following plugins:"
+msgstr ""
+
+#: includes/theme-config.php:70
+msgid "Install Demos"
+msgstr ""
+
+#: includes/theme-config.php:74
+msgid "Newsy demos"
+msgstr ""
+
+#: includes/theme-config.php:75
+msgid "Newsy brings you a number of unique designs for your website. Our demos were carefully tested so you don&#x2019;t have to create everything from scratch. With the theme demos you know exactly which predefined template is perfectly designed to start building upon. Each demo is fully customizable and has a unique look."
+msgstr ""
+
+#: includes/theme-config.php:80
+#: includes/theme-config.php:86
+msgid "Theme Options"
+msgstr ""
+
+#: includes/theme-config.php:95
+msgid "System Report"
+msgstr ""
+
+#: includes/theme-config.php:100
+msgid "Newsy System Status"
+msgstr ""
+
+#: includes/theme-config.php:101
+msgid "Here you can check the system status. Yellow status means that the site will work as expected on the front end but it may cause problems in wp-admin. Memory notice: - the theme is well tested with a limit of 40MB/request but plugins may require more, for example woocommerce requires 64MB."
+msgstr ""
+
+#: includes/theme-config.php:106
+msgid "Support"
+msgstr ""
+
+#: includes/theme-config.php:110
+msgid "Newsy Support"
+msgstr ""
+
+#: includes/theme-config.php:111
+msgid "We know what it&#x2019;s like to need support. This is the reason why our customers are the top priority and we treat every issue with the utmost seriousness. The team is working hard to help every customer, to keep the theme&#x2019;s documentation up to date, to produce video tutorials and to develop new ways to make everything easier.<br><br>You can count on us, we are here for you!"
+msgstr ""
+
+#: includes/theme-config.php:119
+#: includes/theme-config.php:124
+msgid "Import Data"
+msgstr ""
+
+#: includes/theme-config.php:125
+msgid "Import contents."
+msgstr ""
+
+#: includes/theme-config.php:267
+msgid "Frontend & backend functionalities for Wordpress themes and plugins."
+msgstr ""
+
+#: includes/theme-config.php:273
+msgid "Required Plugins"
+msgstr ""
+
+#: includes/theme-config.php:280
+msgid "Newsy widgets and shortcodes for WPBakery Page Builder and Elementor."
+msgstr ""
+
+#: includes/theme-config.php:291
+msgid "BuzzEditor is a frontend post submission tool that lets you and your users create amazing posts."
+msgstr ""
+
+#: includes/theme-config.php:297
+msgid "Built-in Plugins"
+msgstr ""
+
+#: includes/theme-config.php:303
+msgid "BuzzEditor Post Importer is a plugin that allows you to import trivia, personality, checklist quizzes, and polls from BuzzFeed."
+msgstr ""
+
+#: includes/theme-config.php:314
+msgid "Cool emoji style buttons to attract your audience to your posts."
+msgstr ""
+
+#: includes/theme-config.php:325
+msgid "Receiving feedback is crucial as a content creator. Get more feedback from your audience with Up/Down buttons."
+msgstr ""
+
+#: includes/theme-config.php:336
+msgid "Social share for Newsy. Add functionality for showing share buttons and share counts."
+msgstr ""
+
+#: includes/theme-config.php:347
+msgid "Social counter for Newsy. Add functionality for showing social pages and follower counts"
+msgstr ""
+
+#: includes/theme-config.php:358
+msgid "View counter for Newsy. Add functionality for showing top daily, weekly post."
+msgstr ""
+
+#: includes/theme-config.php:369
+msgid "Boost your views, share counts, like, reaction votes with Fake Counter."
+msgstr ""
+
+#: includes/theme-config.php:380
+msgid "Rich snippet for Newsy with JSON LD Form. JSON LD is newest version of Rich snippet. and becoming future of rich snippet."
+msgstr ""
+
+#: includes/theme-config.php:391
+msgid "Newsy Customizer is a plugin that allows you to use theme options in WordPress Customizer."
+msgstr ""
+
+#: includes/theme-config.php:402
+msgid "Page Builder"
+msgstr ""
+
+#: includes/theme-config.php:403
+msgid "Drag and drop page builder for WordPress. Take full control over your WordPress site, build any layout you can imagine – no programming knowledge required."
+msgstr ""
+
+#: includes/theme-config.php:414
+msgid "Elementor is the best FREE WordPress Website Builder, with over 5 million active installs. Create beautiful sites and pages using a drag and drop interface."
+msgstr ""
+
+#: includes/theme-config.php:423
+msgid "Amp Support"
+msgstr ""
+
+#: includes/theme-config.php:424
+msgid "Add AMP support to your WordPress site."
+msgstr ""
+
+#: includes/theme-config.php:433
+msgid "Extend WordPress AMP to fit with Newsy Style"
+msgstr ""
+
+#: includes/theme-config.php:444
+msgid "Supported Plugins"
+msgstr ""
+
+#: includes/theme-config.php:445
+msgid "BuddyPress helps site builders & developers add community features to their websites."
+msgstr ""
+
+#: includes/theme-config.php:454
+msgid "Follow members on your BuddyPress site with this nifty plugin."
+msgstr ""
+
+#: includes/theme-config.php:465
+msgid "myCred is an intelligent and adaptive points management system that allows you to build and manage a broad range of digital rewards including points, ranks and, badges on your WordPress powered website."
+msgstr ""
+
+#: includes/theme-config.php:474
+msgid "bbPress is forum software with a twist from the creators of WordPress."
+msgstr ""
+
+#: includes/theme-config.php:483
+msgid "WooCommerce is the world's most popular open-source eCommerce solution."
+msgstr ""
+
+#: includes/theme-config.php:492
+msgid "Recommended Plugins"
+msgstr ""
+
+#: includes/theme-config.php:493
+msgid "Translate WordPress plugins and themes directly in your browser"
+msgstr ""
+
+#: includes/theme-config.php:502
+msgid "Making WordPress multilingual"
+msgstr ""
+
+#: includes/theme-config.php:511
+msgid "Allow your visitors to comment and login with social networks such as Twitter, Facebook, Google, Yahoo and more."
+msgstr ""
+
+#: includes/theme-config.php:520
+msgid "Just another contact form plugin. Simple but flexible."
+msgstr ""
+
+#: includes/theme-config.php:529
+msgid "Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using the Yoast SEO plugin."
+msgstr ""
+
+#: includes/theme-config.php:539
+msgid "Very fast caching plugin for WordPress."
+msgstr ""
+
+#: includes/theme-config.php:549
+msgid "Makes your site faster by optimizing CSS, JS, Images, Google fonts and more."
+msgstr ""
+
+#: includes/theme-config.php:569
+msgid "Newsy Post Options"
+msgstr ""
+
+#: includes/theme-config.php:578
+msgid "Newsy Page Options"
+msgstr ""
+
+#: includes/theme-config.php:600
+msgid "Newsy Category Options"
+msgstr ""
+
+#: includes/theme-config.php:607
+msgid "Newsy Tag Options"
+msgstr ""
+
+#: includes/theme-config.php:613
+msgid "Newsy reaction Options"
+msgstr ""
+
+#: includes/theme-config.php:632
+msgid "Main Navigation"
+msgstr ""
+
+#: includes/theme-config.php:633
+msgid "Topbar Navigation"
+msgstr ""
+
+#: includes/theme-config.php:634
+msgid "Footer Navigation"
+msgstr ""
+
+#: includes/theme-config.php:635
+msgid "Mobile Navigation"
+msgstr ""
+
+#: includes/theme-config.php:651
+msgid "Newsy Main Menu Options"
+msgstr ""
+
+#: includes/theme-config.php:655
+msgid "Newsy Top Menu Options"
+msgstr ""
+
+#: includes/theme-config.php:659
+msgid "Newsy Mobile Menu Options"
+msgstr ""
+
+#: includes/theme-config.php:677
+msgid "Tabbed Posts"
+msgstr ""
+
+#: includes/theme-config.php:681
+msgid "4 Columns Posts"
+msgstr ""
+
+#: includes/theme-config.php:685
+msgid "Big & Small Posts"
+msgstr ""
+
+#: includes/theme-config.php:689
+msgid "Small Posts"
+msgstr ""
+
+#: includes/theme-config.php:693
+msgid "Viral Menu"
+msgstr ""
+
+#: includes/theme-config.php:697
+msgid "Custom Menu"
+msgstr ""
+
+#: includes/theme-config.php:807
+msgid "Footer - Column 1"
+msgstr ""
+
+#: includes/theme-config.php:808
+msgid "Footer - Column 2"
+msgstr ""
+
+#: includes/theme-config.php:809
+msgid "Footer - Column 3"
+msgstr ""
+
+#: includes/theme-config.php:846
+msgid "Newsy Theme Translation"
+msgstr ""
+
+#: includes/theme-config.php:865
+msgid "Newsy Icons"
+msgstr ""
+
+#: includes/theme-filter.php:14
+#: views/comments/wordpress.php:17
+msgid "Comments"
+msgstr ""
+
+#: includes/theme-filter.php:15
+msgid "Wordpress Comments"
+msgstr ""
+
+#: includes/theme-filter.php:20
+msgid "Facebook Comments"
+msgstr ""
+
+#: includes/theme-filter.php:25
+msgid "Disqus Comments"
+msgstr ""
+
+#: includes/theme-filter.php:105
+msgid "%sM"
+msgstr ""
+
+#: includes/theme-filter.php:107
+msgid "%sk"
+msgstr ""
+
+#: loop.php:39
+#: views/post/simple-loop.php:46
+msgid "No Content Available"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page Builder & Header Overlay Template"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Page Builder Template"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search..."
+msgstr ""
+
+#: views/account/account_modal.php:26
+msgid "Welcome, Login to your account."
+msgstr ""
+
+#: views/account/account_modal.php:33
+msgid "Username or Email..."
+msgstr ""
+
+#: views/account/account_modal.php:37
+msgid "Password..."
+msgstr ""
+
+#: views/account/account_modal.php:43
+msgid "Remember me"
+msgstr ""
+
+#: views/account/account_modal.php:45
+msgid "Forget password?"
+msgstr ""
+
+#: views/account/account_modal.php:50
+msgid "Log In"
+msgstr ""
+
+#: views/account/account_modal.php:58
+msgid "You don't have an account?"
+msgstr ""
+
+#: views/account/account_modal.php:59
+#: views/account/account_modal.php:71
+msgid "Register"
+msgstr ""
+
+#: views/account/account_modal.php:72
+msgid "Welcome, Create your new account"
+msgstr ""
+
+#: views/account/account_modal.php:79
+msgid "Username"
+msgstr ""
+
+#: views/account/account_modal.php:83
+msgid "Email"
+msgstr ""
+
+#: views/account/account_modal.php:87
+msgid "Password"
+msgstr ""
+
+#: views/account/account_modal.php:92
+msgid "Sign Up"
+msgstr ""
+
+#: views/account/account_modal.php:97
+msgid "No account?"
+msgstr ""
+
+#: views/account/account_modal.php:98
+msgid "Go to Sign In"
+msgstr ""
+
+#: views/account/account_modal.php:107
+msgid "Recover your password."
+msgstr ""
+
+#: views/account/account_modal.php:108
+msgid "A password will be e-mailed to you."
+msgstr ""
+
+#: views/account/account_modal.php:113
+msgid "Username or Email"
+msgstr ""
+
+#: views/account/account_modal.php:118
+msgid "Send My Password"
+msgstr ""
+
+#: views/account/account_modal.php:125
+msgid "Sign In"
+msgstr ""
+
+#: views/builder/items/shop.php:5
+msgid "View your shopping cart"
+msgstr ""
+
+#: views/builder/items/user.php:15
+msgid "Logout"
+msgstr ""
+
+#: views/comments/wordpress.php:11
+msgid "Please <a href='%s' class='%s'>login</a> to join discussion"
+msgstr ""
+
+#: views/comments/wordpress.php:19
+msgid "%s Comments"
+msgstr ""
+
+#: views/comments/wordpress.php:21
+msgid "1 Comment"
+msgstr ""
+
+#: views/comments/wordpress.php:68
+msgid "Leave A Reply"
+msgstr ""
+
+#: views/comments/wordpress.php:69
+msgid "Cancel Reply"
+msgstr ""
+
+#: views/comments/wordpress.php:70
+msgid "Reply To %s"
+msgstr ""
+
+#: views/comments/wordpress.php:71
+msgid "Post Comment"
+msgstr ""
+
+#: views/comments/_nav.php:5
+#: views/comments/_nav.php:8
+#: woocommerce/loop/pagination.php:42
+#: woocommerce/loop/pagination.php:45
+msgid "Next"
+msgstr ""
+
+#: views/comments/_nav.php:6
+#: views/comments/_nav.php:9
+#: woocommerce/loop/pagination.php:43
+#: woocommerce/loop/pagination.php:46
+msgid "Prev"
+msgstr ""
+
+#: views/comments/_nav.php:20
+msgid "Comments %s"
+msgstr ""
+
+#: views/post/next-prev-post.php:8
+msgid "Previous Article"
+msgstr ""
+
+#: views/post/next-prev-post.php:19
+msgid "Next Article"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgid "Search for:"
+msgstr ""
